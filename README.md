@@ -1,6 +1,7 @@
 # Virus-Simulation
 
 Video demonstration of simulation:
+
 [![Virus Simulation Video](https://img.youtube.com/vi/KAYSk7BD_oI/0.jpg)](https://www.youtube.com/watch?v=KAYSk7BD_oI)
 
 ## How does it work?
